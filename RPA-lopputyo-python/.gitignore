@@ -1,5 +1,6 @@
 devdata/*
 vault.json
+messages.xlsx
 testrun/
 output/
 venv/
